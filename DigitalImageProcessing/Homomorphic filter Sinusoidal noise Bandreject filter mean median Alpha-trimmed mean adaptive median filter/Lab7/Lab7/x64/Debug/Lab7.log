@@ -1,0 +1,28 @@
+﻿生成启动时间为 2022/4/12 11:18:19。
+     1>项目“C:\Users\steve\Desktop\lab6_1930021014\Lab7\Lab7\Lab7.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(60): warning C4101: “outimage”: 未引用的局部变量
+     1>main.cpp(154): warning C4101: “H”: 未引用的局部变量
+     1>main.cpp(116): warning C4101: “temp”: 未引用的局部变量
+     1>main.cpp(185): warning C4101: “outimage”: 未引用的局部变量
+     1>main.cpp(359): warning C4101: “outimage”: 未引用的局部变量
+     1>main.cpp(451): warning C4101: “outimage”: 未引用的局部变量
+     1>main.cpp(537): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(547): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(571): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(572): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(573): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(574): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\steve\Desktop\lab6_1930021014\Lab7\x64\Debug\Lab7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\steve\Desktop\lab6_1930021014\Lab7\x64\Debug\Lab7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\steve\Desktop\lab6_1930021014\Lab7\x64\Debug\Lab7.lib" /MACHINE:X64 x64\Debug\fft.obj
+         x64\Debug\main.obj
+         x64\Debug\proto.obj
+         x64\Debug\tool.obj
+         Lab7.vcxproj -> C:\Users\steve\Desktop\lab6_1930021014\Lab7\x64\Debug\Lab7.exe
+     1>已完成生成项目“C:\Users\steve\Desktop\lab6_1930021014\Lab7\Lab7\Lab7.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.83
