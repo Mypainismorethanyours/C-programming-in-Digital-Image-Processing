@@ -1,7 +1,4 @@
 # C-programming-in-Digital-Image-Processing
-Pure C programming which you cannot find on the Internet
-
-There is almost no digital image processing with C language programming on the Internet, so I'm sure this will be helpful.
 
 There are 10 labs(projects). Some just has .cpp and .h. Some includes the whole projects.
 
